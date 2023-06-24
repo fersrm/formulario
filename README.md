@@ -1,0 +1,3 @@
+# Frontend Mentor - Formulario input radio
+
+![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
